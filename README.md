@@ -1,4 +1,4 @@
-<p align="center"><a href="" target="_blank"><img src="public/assets/images/movieland-logo.png" width="300" height="200" alt="MovieLand"></a></p>
+<p align="center"><a href="https://open-movieland.netlify.app/" target="_blank"><img src="public/assets/images/movieland-logo.png" width="300" height="200" alt="MovieLand"></a></p>
 
 ![MovieLand](public/assets/images/React-App.png)
 

@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# MovieLand
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+MovieLand is a movie searchable webpage, you can search any type of movie.
 
-## Available Scripts
+## Project Setup
+1. Clone Project first this link
+
+`hei`
 
 In the project directory, you can run:
 
